@@ -1,0 +1,10 @@
+name: Deeplearning_VO
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
